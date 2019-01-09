@@ -31,6 +31,7 @@ function ShoppingListShowController(ShoppingListService) {
 }
 
 
+
 function ShoppingListService() {
   var service = this;
 
